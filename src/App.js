@@ -7,8 +7,10 @@ function App() {
       <header className="App-header">
         
       </header>
-      <main></main>
-      <footer></footer>
+      <main>
+        
+      </main>
+      <footer>Page created by</footer>
     </div>
   );
 }
